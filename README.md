@@ -28,7 +28,7 @@ npm -v
 ## 📁 Project Structure
  
 ```
-JAVASCRIPT-TO-DO-CLI/
+Javascript-to-do-cli/
 ├── app.js        # Main application file
 ├── README.md     # Project overview and documentation
 ├── tasks.json    # Auto-generated file that stores your tasks
